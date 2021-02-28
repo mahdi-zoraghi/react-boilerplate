@@ -1,2 +1,2 @@
-# react-boilerplatecreate a react boilerplate using Webpack
+# create a react boilerplate using Webpack
 
