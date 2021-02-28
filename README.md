@@ -1,6 +1,6 @@
 # create a react boilerplate using Webpack
 
-# Technology to use :
+## Technology to use :
 
 - React
 - Webpack (plugins, loaders, devServer)
