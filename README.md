@@ -9,4 +9,3 @@
 - Sass
 - Styled-components
 - Eslint
-- 
